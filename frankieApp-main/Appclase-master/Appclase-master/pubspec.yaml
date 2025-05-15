@@ -1,0 +1,35 @@
+name: probate
+description: A new Flutter project
+
+publish_to: 'none' # Remove this line if you're publishing to the store
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"  # Establece la versión compatible de Dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+  math_expressions: ^2.0.4  # Usa la versión compatible
+  cupertino_icons: ^1.0.8
+
+  geolocator: ^10.1.0
+
+
+  table_calendar: ^3.0.0
+  intl: ^0.18.0
+
+
+  firebase_core: ^2.30.0
+
+  cloud_firestore: ^4.17.0
+
+
+dev_dependencies:
+  change_app_package_name: ^1.1.0
+
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1 # Usa la versión más reciente
+flutter:
+  uses-material-design: true
+

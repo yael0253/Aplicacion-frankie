@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858003789184",
+    "project_id": "appfrankie-74234",
+    "storage_bucket": "appfrankie-74234.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858003789184:android:a198ce9a1fa9741d365d65",
+        "android_client_info": {
+          "package_name": "com.yaelMartinez.appfrankie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzH2McnY9baA_SIp7yJjihYKnyAiVAOP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
